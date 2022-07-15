@@ -10,15 +10,15 @@ Code for ECCV 2022 paper [Joint-Modal Label Denoising for Weakly-Supervised Audi
 
 ### Modality-specific label noise
 
-<img src="./static/intro.png" width="500px">
+<img src="./static/intro.png" style="width:70%; display: block; margin: auto">
 
 
 ### The procedure of modality-specific label denoising
-<img src="./static/method.png" width="500px">
+<img src="./static/method.png" style="width:70%; display: block; margin: auto">
 
 
 ### The results on LLP dataset
-<img src="./static/results.png" width="500px">
+<img src="./static/results.png" style="width:70%; display: block; margin: auto">
 
 
 ## Get Started
